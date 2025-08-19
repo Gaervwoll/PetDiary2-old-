@@ -4,6 +4,8 @@
 
 A small Android app for keeping a pet diary. It includes a user registration screen and an initial pet profile setup (name, age, photo). The repo contains two parallel scaffolds: a classic XML-based UI and a Jetpack Compose demo.
 
+We did these projects in practice. In addition to me, Dan took a great part in the development
+
 ### Status
 - In its current shape the project may not run out of the box due to configuration mismatches (see "Known issues").
 - By default, the entry point declared in `app/src/main/AndroidManifest.xml` is `MainActivity` with a Jetpack Compose demo screen.
